@@ -5,8 +5,8 @@
       "section_name": {
         "about": "About me",
         "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
+        "skills": "Skills: pro level pen spinning, devilishly lustrous hair, superhuman comedic timing ", 
+        "experience": "Experienced in Git, Github, Javascript, Html5, CSS, Lisp, Haskell, Python"
       }
     },
     "projects": [
@@ -21,16 +21,16 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "null",
+            "name": "null"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "null",
+            "name": "null"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "null",
+            "name": "null"
           }
         ]
       },
@@ -45,12 +45,12 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "null",
+            "name": "null"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "null",
+            "name": "null"
           }
         ]
       },
@@ -82,37 +82,26 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Concentra",
+        "title": "X-Ray Tech",
+        "years": "01.2022 - 01.2023",
         "mainTech": [
-          "Angular 8/9/10"
+          "Konica Minolta"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "lorem ipsum"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Vista Complete Care",
+        "title": "Intern=>X-Ray Lead",
+        "years": "01.2019 - 09.2020",
         "mainTech": [
-          "Angular 7/8"
+          "Fujifilm/Toshiba"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "in the hobby",
+          " baby spiders are called slings, which is slang for 'spiderlings' "
         ]
       }
     ]
