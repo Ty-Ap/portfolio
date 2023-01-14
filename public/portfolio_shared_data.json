@@ -1,17 +1,17 @@
 {
     "basic_info": {
       "name": "Ty Aponte",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Just a local mountain cryptid making math do tricks. Student at Code Fellows"],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/Ty-Ap",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/ty-aponte/",
+          "class": "devicon-linkedin-plain "
         }
       ],
       "image": "myProfile.jpg"
@@ -66,3 +66,4 @@
       ]
     }
   }
+          
